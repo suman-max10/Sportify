@@ -29,3 +29,8 @@ Run these commands from `frontend/`:
 - `npm run build` - Build the application for production
 - `npm run lint` - Check the code with ESLint
 - `npm run preview` - Preview the production build locally
+
+
+## Frontend 
+
+- App.tsx to communicate eith frontend.
