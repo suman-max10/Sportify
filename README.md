@@ -34,3 +34,21 @@ Run these commands from `frontend/`:
 ## Frontend 
 
 - App.tsx to communicate eith frontend.
+
+
+
+
+
+
+
+
+
+
+
+### Backend
+
+```bash
+cd backend
+npm install
+npm run dev
+```
